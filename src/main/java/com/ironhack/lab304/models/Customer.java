@@ -21,8 +21,6 @@ public class Customer {
 
     private Long customerMileage;
 
-    private String test;
-
     public Customer() {
     }
 
